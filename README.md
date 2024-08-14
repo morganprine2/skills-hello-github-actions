@@ -1,6 +1,8 @@
 <header>
 
-# Hello GitHub Actions :) 
+# Hello GitHub Actions
+
+Making updates to my README.
 
 _Create and run a GitHub Actions workflow._
 
